@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto', sans-serif;
+   padding-top: 65px;
+}
+
+.main-btn {
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+}
+
+.main-img {
+    height: 200px; 
+    width: 300px;
+}
+
+.contact {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.main-text {
+    padding: 20px;
+}
+
+.main-jumbotron {
+    background-image: -webkit-gradient(linear, left top, right top, from(#71CEEF), to(#3366FF));
+    background-image: linear-gradient(to right, #71CEEF 0%, #3366FF 100%);
+}
+
+.main-container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.img-carousel {
+    width: 100%;
+}
